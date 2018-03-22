@@ -3,7 +3,7 @@
 \alias{polySegratio}
 \docType{package}
 \title{
-Segregation ratios for autoployploids
+Segregation Ratios for Autoployploids
 }
 \description{
   These functions provide tools for computing expected segregation ratios
@@ -16,8 +16,8 @@ Segregation ratios for autoployploids
 \tabular{ll}{
 Package: \tab polySegratio\cr
 Type: \tab Package\cr
-Version: \tab 0.2-2\cr
-Date: \tab 2009-11-18\cr
+Version: \tab 0.2-5\cr
+Date: \tab 2018-03-22\cr
 License: \tab GPL-3\cr
 }
 Use \code{\link{expected.segRatio}} to compute expected segregation
